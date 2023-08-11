@@ -1,0 +1,17 @@
+.controls {
+  display: flex;
+  justify-content: center;
+
+  margin: 20px 0px;
+
+  button {
+    cursor: pointer;
+    border: none;
+    outline: none;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 10px;
+    margin: 0px 10px;
+    background-color: white;
+  }
+}
